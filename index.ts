@@ -4,3 +4,5 @@ export interface IMarioState {
   pegarPena(): IMarioState;
   levarDano(): IMarioState;
 }
+
+
